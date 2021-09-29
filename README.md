@@ -11,7 +11,7 @@
 # Widgets
     - Profile: for User information
     - Balance_Card:  for Balance information
-    - Live_Prices:  it gets real data from webscoket channel
+    - Live_Prices:  it gets live data from webscoket channel
     - Crypto_assets:  it gets crypto name and icon from rest api
     - Cached_circle_avatar: to cache crypto icons
 
